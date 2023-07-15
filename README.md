@@ -93,3 +93,27 @@ Ethical Considerations
 Authorization Tracking
 Cybersecurity Education
 User Keystroke Analysis
+
+
+
+
+
+
+
+
+![image](https://github.com/raghuvarm17633/KeyloggerCapturing/assets/137690672/e241edc6-6c24-4b25-a027-434ec12e5263)
+
+
+
+
+
+
+
+![image](https://github.com/raghuvarm17633/KeyloggerCapturing/assets/137690672/15a55317-e24e-43a4-920c-e209f8d22a5a)
+
+
+
+
+
+![image](https://github.com/raghuvarm17633/KeyloggerCapturing/assets/137690672/5bf45d74-708b-4574-8b84-168aad7e4103)
+
