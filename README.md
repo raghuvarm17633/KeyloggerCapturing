@@ -61,3 +61,35 @@ By following these tips, you can help protect yourself from keyloggers and other
 
 This code is taken form IBM SKillsBuild Edunet
 
+
+
+
+
+
+
+
+
+# 🎯 Aim and Objectives
+
+🎓 Demonstrate practical knowledge in cybersecurity by creating a keylogger as part of the IBM SkillsBuild Internship program.
+
+🚀 Develop a keylogger program using Python to understand key event monitoring and logging in the context of cybersecurity.
+
+🔍 Implement the pynput library to capture and record keystrokes, distinguishing between key press, hold, and release events.
+
+💾 Create a JSON file to store the captured keystrokes, facilitating analysis and further investigation in the field of digital forensics.
+
+⚖️ Raise awareness about the ethical and legal considerations associated with keyloggers, emphasizing the importance of proper authorization and respect for privacy rights.
+
+# ✨ Features
+
+Keylogging
+Keystroke Monitoring
+Key Event Capture
+JSON Logging
+Digital Forensics
+Privacy Awareness
+Ethical Considerations
+Authorization Tracking
+Cybersecurity Education
+User Keystroke Analysis
