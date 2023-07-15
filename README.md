@@ -101,9 +101,7 @@ User Keystroke Analysis
 
 
 
-![image](https://github.com/raghuvarm17633/KeyloggerCapturing/assets/137690672/e241edc6-6c24-4b25-a027-434ec12e5263)
-
-
+![image](https://github.com/raghuvarm17633/KeyloggerCapturing/assets/137690672/72d35867-f2ef-4ab3-bb80-8c92abc6ed9d)
 
 
 
